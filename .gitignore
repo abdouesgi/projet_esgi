@@ -1,52 +1,25 @@
-# Prerequisites
-*.d
+# Node.js / npm
+node_modules/
 
-# Object files
-*.o
-*.ko
-*.obj
-*.elf
+# Fichiers de configuration
+config.js
+.env
 
-# Linker output
-*.ilk
-*.map
-*.exp
+# Fichiers de logs
+logs/
 
-# Precompiled Headers
-*.gch
-*.pch
+# Fichiers de génération (ex. build, dist)
+dist/
+build/
 
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
+# Fichiers d'éditions d'éditeurs de texte (ex. .vscode, .idea)
+.vscode/
+.idea/
 
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
+# Fichiers système (ex. .DS_Store sur macOS)
+.DS_Store
 
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+# Fichiers de dépendances de gestionnaire de tâches (ex. package-lock.json)
+package-lock.json
+yarn.lock
 
-# Debug files
-*.dSYM/
-*.su
-*.idb
-*.pdb
-
-# Kernel Module Compile Results
-*.mod*
-*.cmd
-.tmp_versions/
-modules.order
-Module.symvers
-Mkfile.old
-dkms.conf
