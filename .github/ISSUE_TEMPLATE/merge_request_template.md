@@ -1,17 +1,25 @@
-## Description
+---
+name: Demande de fusion
+about: Proposez des modifications pour être fusionnées dans la branche principale
+title: '[Demande de fusion] '
 
-Décrivez les objectifs de cette MR.
+---
 
-## Tâches accomplies
+**Description de la demande de fusion**
 
-- [ ] Tâche 1
-- [ ] Tâche 2
-- [ ] ...
+Une description claire et concise de la demande de fusion. Expliquez ce que fait cette fusion et pourquoi elle est nécessaire.
 
-## Captures d'écran (le cas échéant)
+**Liées à (facultatif)**
 
-Ajoutez des captures d'écran pour illustrer les changements apportés.
+Listez ici les issues ou les problèmes GitHub qui sont liés à cette demande de fusion, le cas échéant.
 
-## Informations supplémentaires
+**Type de demande de fusion**
 
-Ajoutez des informations supplémentaires ou des contextes pertinents pour la MR.
+Cochez la case appropriée :
+- [ ] Nouvelle fonctionnalité
+- [ ] Correction de bogue
+- [ ] Amélioration de la performance
+- [ ] Refactoring
+- [ ] Autre : _________
+
+**Captures d'écran ou illustrations (fac
