@@ -1,4 +1,16 @@
 ---
+feature/task-4
+
+name: Feature request
+about: 'suggerez une nouvelle fonctionnalité '
+title: "[fonct_reqst]"
+labels: enhancement
+assignees: Flabouu
+
+---
+
+---
+ master
 name: Demande de fonctionnalité
 about: Suggérez une idée pour améliorer ce projet
 title: '[Fonctionnalité] '
@@ -30,3 +42,10 @@ Ajoutez ici toute autre information pertinente.
 - Système d'exploitation : [ex : Windows 10]
 - Navigateur : [ex : Chrome, Firefox]
 - Version de l'application : [ex : 1.0.0]
+feature/task-4
+
+
+
+**Additional context**
+Add any other context or screenshots about the feature request here.
+ master
